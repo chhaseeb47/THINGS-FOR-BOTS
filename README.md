@@ -17,3 +17,6 @@
  
  
 Enjoy❤❤❤❤
+
+
+# CARD 🃏 Details
