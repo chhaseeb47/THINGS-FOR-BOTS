@@ -2,14 +2,15 @@
  
  Copy Easy Now
  
- # *`MONGODB URI`
-  
+ # `MONGODB URI`
+  Railway Uri
  mongodb://mongo:Leua9VD8ienGyhpdruHQ@containers.railway.app:5534
  
+Mongodb Uri
+
  
  
- 
- # *`BOTCAHX_API`   
+ # `BOTCAHX_API`   
  6130a8cf
 
  
@@ -21,6 +22,21 @@ Enjoy❤❤❤❤
 
 
 # CARD 🃏 Details
+⚜HEROKU WORKING CC⚜
+
+CC: 4154644401602009
+Expire: 08/25
+CVV: 300
+Name: Tbforce OFC
+Country: Bahrain
+Address: newtn OFC, house no. 7 block 40
+City: Manama
+State: Manama
+Postal code: 323
+⚜
+
+
+
 
 
 
