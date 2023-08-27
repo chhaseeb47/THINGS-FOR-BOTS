@@ -24,15 +24,25 @@ Enjoy❤❤❤❤
 # CARD 🃏 Details
 ⚜HEROKU WORKING CC⚜
 
+
 CC: 4154644401602009
+
 Expire: 08/25
+
 CVV: 300
+
 Name: Tbforce OFC
+
 Country: Bahrain
+
 Address: newtn OFC, house no. 7 block 40
+
 City: Manama
+
 State: Manama
+
 Postal code: 323
+
 ⚜
 
 
