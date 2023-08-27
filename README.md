@@ -50,6 +50,11 @@ Postal code: 323
 
 
 
+# Plugins For All WhatsApp Bots
+***Hermit-MD Plugin[`Click Here To Get`](https://replit.com/@naveeddogar/Thor-MD-QR?v=1)***
+
+
+
 # ALIVE MESSAGE For Hermit MD
 
 
