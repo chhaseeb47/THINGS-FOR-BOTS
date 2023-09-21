@@ -1,7 +1,10 @@
 
-<h1 align="center"> Secktor Plugins </h1>
+<h1 align="center"> Prabath-Md Plugins </h1>
 <div align="center">
 <br /> 
+
+<br> [![join](https://telegra.ph/file/798fb30f0ac7e57ce251d.jpg)](naveeddogar)
+ 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SamPandey001&label=Visitors%20count&color=10d9c3&style=plastic" alt="lyfe-plugin-list" /> </p>
 
 
