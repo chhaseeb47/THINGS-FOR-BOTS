@@ -54,6 +54,16 @@ Postal code: 323
 ***Hermit-MD Plugin[`Click Here To Get`](https://github.com/naveeddogar/THINGS-For-Bots/blob/main/Plugins/README%20(1).md)***
 
 ***Lyfee-MD Plugin[`Click Here To Get`](https://github.com/naveeddogar/THINGS-For-Bots/blob/main/Plugins/README%20(2).md)***
+
+***Secktor-MD Plugin[`Click Here To Get`](https://github.com/naveeddogar/THINGS-For-Bots/blob/main/Plugins/README%20(3).md)***
+
+***Prabath-MD Plugin[`Click Here To Get`](https://github.com/naveeddogar/THINGS-For-Bots/blob/main/Plugins/README%20(4).md)***
+
+***Suhail-MD Plugin[`Click Here To Get`](https://github.com/naveeddogar/THINGS-For-Bots/blob/main/Plugins/README%20(3).md)***
+
+***Xlicon-MD Plugin[`Click Here To Get`](https://github.com/naveeddogar/THINGS-For-Bots/blob/main/Plugins/README%20(3).md)***
+
+
 More Bot Plugins Coming Soon...
 
 
