@@ -8,11 +8,13 @@
  
 Mongodb Uri
 
- 
- 
- # `BOTCAHX_API`   
- 6130a8cf
 
+  ---
+ # BOTCAHX_API   
+1: Api = 6130a8cf
+2: Api = 6140a9dg
+3: Api = 7130a4dk
+ ***BOTCAHX_API [`Click Here To Get Unlimited`](https://github.com/naveeddogar/THINGS-For-Bots/blob/main/Api&Uri/README%20(1).md)***
  
  
  
@@ -20,6 +22,7 @@ Mongodb Uri
  
 Enjoy❤❤❤❤
 
+----
 
 # CARD 🃏 Details
 ⚜HEROKU WORKING CC⚜
@@ -48,7 +51,7 @@ Postal code: 323
 
 
 
-
+---
 
 # Plugins For All WhatsApp Bots
 ***Hermit-MD Plugin[`Click Here To Get`](https://github.com/naveeddogar/THINGS-For-Bots/blob/main/Plugins/README%20(1).md)***
@@ -59,13 +62,15 @@ Postal code: 323
 
 ***Prabath-MD Plugin[`Click Here To Get`](https://github.com/naveeddogar/THINGS-For-Bots/blob/main/Plugins/README%20(4).md)***
 
-***Suhail-MD Plugin[`Click Here To Get`](https://github.com/naveeddogar/THINGS-For-Bots/blob/main/Plugins/README%20(3).md)***
+***Suhail-MD Plugin[`Click Here To Get`](https://github.com/naveeddogar/THINGS-For-Bots/blob/main/Plugins/README%20(5).md)***
 
-***Xlicon-MD Plugin[`Click Here To Get`](https://github.com/naveeddogar/THINGS-For-Bots/blob/main/Plugins/README%20(3).md)***
+***Xlicon-MD Plugin[`Click Here To Get`](https://github.com/naveeddogar/THINGS-For-Bots/blob/main/Plugins/README%20(6).md)***
+
 
 
 More Bot Plugins Coming Soon...
 
+---
 
 # ALIVE MESSAGE For Hermit MD
 
