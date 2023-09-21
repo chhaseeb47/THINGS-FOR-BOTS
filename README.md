@@ -51,10 +51,10 @@ Postal code: 323
 
 
 # Plugins For All WhatsApp Bots
-***Hermit-MD Plugin[`Click Here To Get`](https://github.com/mask-sir/hermit-md-plugins/blob/main/README.md)***
+***Hermit-MD Plugin[`Click Here To Get`](https://github.com/naveeddogar/THINGS-For-Bots/blob/main/Plugins/README%20(1).md)***
 
-***Lyfee-MD Plugin[`Click Here To Get`](https://github.com/mask-sir/LYFE-PLUGINLISTS/blob/main/README.md)***
-More Bota Plugins Coming 
+***Lyfee-MD Plugin[`Click Here To Get`](https://github.com/naveeddogar/THINGS-For-Bots/blob/main/Plugins/README%20(2).md)***
+More Bot Plugins Coming Soon...
 
 
 # ALIVE MESSAGE For Hermit MD
