@@ -12,8 +12,11 @@ Mongodb Uri
   ---
  # BOTCAHX_API   
 1: Api = 6130a8cf
+
 2: Api = 6140a9dg
+
 3: Api = 7130a4dk
+
  ***BOTCAHX_API [`Click Here To Get Unlimited`](https://github.com/naveeddogar/THINGS-For-Bots/blob/main/Api&Uri/README%20(1).md)***
  
  
