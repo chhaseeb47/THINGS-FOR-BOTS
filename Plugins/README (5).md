@@ -1,7 +1,13 @@
 
-<h1 align="center"> Secktor Plugins </h1>
+<h1 align="center"> Suhail-Md Plugins </h1>
 <div align="center">
 <br /> 
+
+<p align="center">
+  <a href="naveeddogar ">
+    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/ec9bc5038601821f2eb84.jpg">
+  </a>
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SamPandey001&label=Visitors%20count&color=10d9c3&style=plastic" alt="lyfe-plugin-list" /> </p>
 
 
