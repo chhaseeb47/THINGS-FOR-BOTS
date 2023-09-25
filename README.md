@@ -1,3 +1,27 @@
+# PostgreSQL Uri / Url
+
+postgres://naveed_user:jR4C57sJsFIBNO18OxxD6CtqzOvhTXYk@dpg-dn5D1nug2bec738cqi4g-a.frankfurt-postgres.render.com/naveed
+
+postgres://udith_user:hR4C57sCgHIBNO18OxxD6CtqzOvhTXYk@dpg-ck5D1nug2bec738cqi4g-a.frankfurt-postgres.render.com/udith
+
+
+
+
+
+
+
+
+
+
+---
+
+
+---
+
+
+
+
+
 # MONGODB URI &  BOTCAHX_API
  
  Copy Easy Now
