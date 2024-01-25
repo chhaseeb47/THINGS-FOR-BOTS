@@ -1,3 +1,36 @@
+## QR Generator For WhatsApp Bot In Base 64
+
+#### Connect This Qr Generator With Your WhatsApp Bot In 4 Steps
+##### ` 1: Copy This Qr Generator Link Or Copy Full [SCAN QR CODE ] Button 🔘`
+##### ` 2: Past This Link In Your WhatsApp Bot README.MD File`
+##### ` 3: Go In Your Bot [📁lib Folder/ then In Lib Folder Open [client.js] fil And Change Session Name In Replace Session Line And Put This Name 👉 SESSION-ID`
+##### ` 4: Now Click On Commit Changes Now Your Session Connect With Your Bot`
+<a href='https://qr-code-generator-eta-green.vercel.app/' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=openv&logoColor=white'/></a>
+
+
+Support On Yt Technical Naveed
+
+Credit To Me
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+___ 
+
+
+---
+
+
 # PostgreSQL Uri / Url
 
 postgres://naveed_user:jR4C57sJsFIBNO18OxxD6CtqzOvhTXYk@dpg-dn5D1nug2bec738cqi4g-a.frankfurt-postgres.render.com/naveed
@@ -121,6 +154,6 @@ _This Famous quote by *&author*_
 
 #title\(っ◔◡◔)っ ♥ LOVE YOU ♥#
 #body\Naveed-Bot#
-#mediaUrl\https://youtube.com/@TechnicalNaveed-Official#
+#mediaUrl\#
 #sourceUrl\https://wa.me/923096566451#
 #thumb\https://i.imgur.com/tmylAFg.jpeg#
